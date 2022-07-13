@@ -1,0 +1,7 @@
+com\meet\restapicliente\repository\ClienteRepository.class
+com\meet\restapicliente\service\ClienteServiceImpl.class
+com\meet\restapicliente\dto\ClienteDto.class
+com\meet\restapicliente\model\Cliente.class
+com\meet\restapicliente\RestapiclienteApplication.class
+com\meet\restapicliente\controller\ClienteController.class
+com\meet\restapicliente\service\ClienteService.class

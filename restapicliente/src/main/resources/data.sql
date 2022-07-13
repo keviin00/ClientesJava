@@ -1,0 +1,5 @@
+INSERT INTO CLIENTES(DNI,NOMBRE,APELLIDO,FECHANACIMIENTO)
+VALUES
+(10100100,'Michell','Nostradamus','1840-01-30'), -- año/mes/dia
+(10100200,'Demon','Spade','1810-12-05'),
+(10100300,'Nicolas','Tesla','1900-07-12');
